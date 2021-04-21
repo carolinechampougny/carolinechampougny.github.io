@@ -2129,6 +2129,16 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			box-shadow: 10px 10px 10px black;
+		}
+
+		.image.fit.vert {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 65%;
+			box-shadow: 10px 10px 10px black;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 			.image.fit img {
@@ -2555,6 +2565,16 @@ input, select, textarea {
 		padding: 0;
 		width: 100%;
 	}
+
+		.features .image_horiz {
+			box-shadow: 5px 5px 10px grey;
+			width: 100%;
+		}
+
+		.features .image_vert {
+			box-shadow: 5px 5px 10px grey;
+			width: 65%;
+		}
 
 		.features li {
 			padding: 4em 4em 2em 4em ;
