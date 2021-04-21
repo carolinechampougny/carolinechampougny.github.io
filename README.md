@@ -1,1 +1,2 @@
-# carolinechampougny.github.io
+# Webpage source code for ApéroPaint
+
