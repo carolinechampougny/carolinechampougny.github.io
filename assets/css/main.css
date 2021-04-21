@@ -2101,6 +2101,8 @@ input, select, textarea {
 		.image img {
 			border-radius: 3px;
 			display: block;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		.image.left {
@@ -2555,10 +2557,10 @@ input, select, textarea {
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+			padding: 4em 4em 2em 4em ;
 			display: block;
 			position: relative;
-			text-align: left;
+			text-align: center;
 			width: 50%;
 		}
 
@@ -2677,6 +2679,7 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			border-radius: 0;
+			padding: 5em;
 			width: 40%;
 		}
 
@@ -3657,14 +3660,14 @@ input, select, textarea {
 			height: 8.5em;
 			left: 50%;
 			letter-spacing: 0.225em;
-			margin-left: -8.5em;
+			margin-left: -10em;
 			opacity: 1;
 			outline: 0;
 			padding-left: 0.225em;
 			position: absolute;
 			text-align: center;
 			text-transform: uppercase;
-			width: 16em;
+			width: 19em;
 			z-index: 1;
 		}
 
